@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF8">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <main id="main">
+      <h1 id="title">U2</h1>
+      <p>A tribute page</p>
+
+      <div id="img-div">
+        <img id="image" src="https://wallpapercave.com/wp/wp1822889.jpg"></img>
+        <figcaption id="img-caption" >Joshua Tree album cover</figcaption>
+      </div>
+<br></br>
+      <section id="tribute-info">
+        <ul>
+          <l>The band formed in  Mount Temple secondary school in Dublin in 1976.</l><br></br>
+
+          <l>Within four years, they signed with Island Records and released their debut album, Boy in 1980.</l><br></br>
+
+          <l> Reach their first UK number-one album, War in 1983.</l><br></br>
+
+          <l>Their fifth album, The Joshua Tree (1987), made them international stars and was their greatest critical and commercial success.</l><br></br>
+
+          <l>U2 have released 15 studio albums and are one of the world's best-selling music artists, having sold an estimated 150–170 million records worldwide. They have won 22 Grammy Awards, more than any other band.</l><br></br>
+
+          <l>The group consists of Bono (lead vocals and rhythm guitar), the Edge (lead guitar, keyboards, and backing vocals), Adam Clayton (bass guitar), and Larry Mullen Jr. (drums and percussion)</l><br></br>
+
+          <l>Throughout their career, as a band and as individuals, they have campaigned for human rights and social justice causes.</l>
+          
+        </ul><br></br>
+
+        <p><a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/U2">Learn more about U2</a></p>
+
+      </section>
+
+
+    </main>
+  </body><br></br>
+
+  <footer>Developed by Jesus A. Gutiérrez M.</footer>
+
+</html>
